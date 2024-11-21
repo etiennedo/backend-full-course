@@ -1,4 +1,4 @@
-**Node.js Backend Full Course | Modern Backend Development for 2025 🔥**  
+# Node.js Backend Full Course | Modern Backend Development for 2025 🔥
 
 Master Node.js, Express.js, SQLite, PostgreSQL, Prisma, and Docker with this ultimate backend development course! Learn how to build REST API endpoints, implement JWT authentication, and handle CRUD database interactions through practical projects and foundational theory.  
 
